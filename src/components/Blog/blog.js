@@ -19,7 +19,7 @@ const Blog = () => {
                     <div className="blog-list block-1-2 block-tab-full">
                         <article className="col-block">
                             <div className="blog-date">
-                                <a href="blog-single.html">Sept 16, 2017</a>
+                                <a href="blog-single.html">Sept 16, 2019</a>
                             </div>
                             <h2 className="h01"><a href="blog-single.html">The 10 Golden Rules of Clean Simple Design.</a></h2>
                             <p>
